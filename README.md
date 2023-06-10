@@ -7,4 +7,7 @@ O Swift Tour começa explicando brevemente a história por trás do Swift e sua 
 
 O guia passa então a cobrir os fundamentos da linguagem Swift, como declaração de variáveis e constantes, tipos de dados básicos, operadores e controle de fluxo. Ele explica a sintaxe do Swift usando exemplos práticos e mostra como realizar tarefas comuns, como declaração de funções, loops e estruturas condicionais.
 
+
+<img width="1020" alt="swift" src="https://github.com/andreahcodes/BasicSwift/assets/112190511/d85924e8-39e8-426f-9391-bb1b2d876c19">
+
 ## Acesse o pdf em portugues
